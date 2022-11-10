@@ -1,3 +1,0 @@
-This is to test pre-commit hook.
-
-This should fail the commit.
